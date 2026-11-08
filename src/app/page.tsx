@@ -1,2 +1,7 @@
-import {HeroCarousel} from '@/components/home/hero';import {CuratedCollections,ProductSection,FeaturedCharacters,BrandStory,UpcomingReleases,JournalSection} from '@/components/home/sections';import {NewsletterSection} from '@/components/home/newsletter';import {products} from '@/data/catalog';
-export default function Home(){return <><HeroCarousel/><CuratedCollections/><ProductSection title="New to the atelier." description="Fresh perspectives. Thoughtfully made companions." items={[products[8],products[1],products[0],products[4]]}/><FeaturedCharacters/><ProductSection title="The ones you come back to." description="A curated selection of studio favorites. Demo assortment." items={products.filter(p=>p.featured)}/><BrandStory/><UpcomingReleases/><JournalSection/><div className="container"><NewsletterSection/></div></>}
+import type {Metadata} from 'next';
+import {StudioHome} from '@/components/home/studio/studio-home';
+import './studio.css';
+const title='HAKKI WORK | Creative Design, Web Development & Custom Creations';
+const description='HAKKI WORK is an independent creative studio specializing in websites, apps, original characters, 3D modeling, custom figurines and personalized products.';
+export const metadata:Metadata={title:{absolute:title},description,alternates:{canonical:'/'},openGraph:{title,description,siteName:'HAKKI WORK',type:'website',url:'/',images:[{url:'/media/campaign.webp',width:1536,height:1024,alt:'Original studio character concept visual'}]},twitter:{card:'summary_large_image',title,description,images:['/media/campaign.webp']}};
+export default function Home(){return <StudioHome/>}

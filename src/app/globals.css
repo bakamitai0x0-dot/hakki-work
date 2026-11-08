@@ -19,3 +19,6 @@
 
 @media(prefers-reduced-motion:no-preference){.modal{transition:opacity .25s,transform .25s,display .25s allow-discrete,overlay .25s allow-discrete}.modal[open]{opacity:1;transform:translateY(0)}.drawer[open]{transform:translateX(0)}@starting-style{.modal[open]{opacity:0;transform:translateY(12px)}.drawer[open]{transform:translateX(24px)}}}
 @media(max-width:600px){.section>.product-grid{display:grid;grid-auto-flow:column;grid-template-columns:none;grid-auto-columns:72%;overflow-x:auto;scroll-snap-type:x mandatory;padding-bottom:15px;scrollbar-width:thin}.section>.product-grid>div{scroll-snap-align:start}.hero-content h1{font-size:42px}}
+
+/* V1.1: shared navigation/footer additions; commerce styles remain unchanged. */
+.hw-studio-nav{gap:22px}.hw-studio-nav .hw-nav-quote{font-size:13px;min-height:44px;padding:10px 16px}.hw-studio-nav .hw-nav-quote:after{display:none}.footer-studio-links{display:flex;flex-wrap:wrap;gap:6px 20px;margin-top:24px}.footer-legal{display:flex;gap:20px}@media(max-width:1200px){.hw-studio-nav{display:none}.header .mobile-menu-button{display:flex}.header .wordmark{margin-right:auto}}

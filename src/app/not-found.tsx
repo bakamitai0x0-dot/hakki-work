@@ -1,0 +1,1 @@
+import Link from 'next/link';export default function NotFound(){return <div className="container page not-found"><p>404 · A little off the beaten path</p><h1>This corner is still quiet.</h1><p>The page you are looking for could not be found.</p><Link className="button" href="/">Return to the atelier ↗</Link></div>}

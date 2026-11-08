@@ -1,0 +1,2700 @@
+{
+ "url": "http://localhost:3000",
+ "at": "2026-11-08T09:37:22.651Z",
+ "allow": [
+  "few-pictures",
+  "grey-body"
+ ],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 8,
+   "filled": [
+    0.95,
+    0.48,
+    0.55,
+    0.75,
+    0.73,
+    0.43,
+    0.6,
+    0.79
+   ],
+   "motion": {
+    "elements": 23,
+    "css": 4,
+    "transitions": 0,
+    "scripted": 19,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 6651,
+     "screens": 7.4,
+     "words": 463,
+     "img": 22,
+     "video": 0,
+     "canvas": 0,
+     "svg": 37,
+     "sections": 9,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 2,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "campaign.webp",
+      "campaign.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "A quieter kind of company.",
+     "words": 5,
+     "chars": 26,
+     "lines": 2,
+     "size": 72,
+     "vw": 5,
+     "font": "Manrope",
+     "weight": 500,
+     "tracking": -0.055,
+     "leading": 1.02,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.36,
+     "top": 269,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "A quieter kind of company.",
+     "words": 5,
+     "lines": 2,
+     "size": 72,
+     "font": "Manrope"
+    },
+    "headings": [
+     {
+      "text": "A quieter kind of company.",
+      "words": 5,
+      "chars": 26,
+      "lines": 2,
+      "size": 72,
+      "vw": 5,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.055,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.36,
+      "top": 269,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Worlds to get lost in.",
+      "words": 5,
+      "chars": 22,
+      "lines": 1,
+      "size": 40,
+      "vw": 2.8,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.13,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.28,
+      "top": 993,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "New to the atelier.",
+      "words": 4,
+      "chars": 19,
+      "lines": 1,
+      "size": 40,
+      "vw": 2.8,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.13,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.27,
+      "top": 1805,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "A familiar feeling. A new friend.",
+      "words": 6,
+      "chars": 33,
+      "lines": 1,
+      "size": 40,
+      "vw": 2.8,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.13,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.36,
+      "top": 2576,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The ones you come back to.",
+      "words": 6,
+      "chars": 26,
+      "lines": 1,
+      "size": 40,
+      "vw": 2.8,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.13,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.33,
+      "top": 3323,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Quiet forms. Lasting stories.",
+      "words": 4,
+      "chars": 29,
+      "lines": 2,
+      "size": 36,
+      "vw": 2.5,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.13,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.24,
+      "top": 4188,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Good things take their time.",
+      "words": 5,
+      "chars": 28,
+      "lines": 1,
+      "size": 40,
+      "vw": 2.8,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.13,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.33,
+      "top": 4721,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Notes from the atelier.",
+      "words": 4,
+      "chars": 23,
+      "lines": 1,
+      "size": 40,
+      "vw": 2.8,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.13,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.26,
+      "top": 5170,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "A little inspiration, every now and then.",
+      "words": 7,
+      "chars": 41,
+      "lines": 2,
+      "size": 32,
+      "vw": 2.2,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.13,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.4,
+      "top": 5834,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Objects with a story. A place in yours.",
+      "words": 8,
+      "chars": 39,
+      "lines": 2,
+      "size": 32,
+      "vw": 2.2,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.13,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.35,
+      "top": 6184,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "ATELIER OBJECTS",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 149.8,
+      "vw": 10.4,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.065,
+      "leading": 1.1,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 6411,
+      "tag": "div",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 11,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 1,
+     "medianWords": 5,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Manrope",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      13,
+      14,
+      16,
+      20,
+      22,
+      23,
+      24,
+      25,
+      32,
+      36,
+      40,
+      72,
+      150
+     ],
+     "sizeCount": 13,
+     "notLoaded": [],
+     "body": {
+      "font": "Manrope",
+      "size": 16,
+      "leading": 1.7,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 1.8
+     },
+     "measureChars": 43,
+     "max": {
+      "size": 149.8,
+      "vw": 10.4,
+      "font": "Manrope",
+      "text": "ATELIER OBJECTS"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.01,
+     "centerShare": 0.01,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#c6bfb3",
+       "top": 125,
+       "hsl": {
+        "h": 38,
+        "s": 0.14,
+        "l": 0.74
+       }
+      },
+      {
+       "color": "#f7f6f2",
+       "top": 125,
+       "hsl": {
+        "h": 48,
+        "s": 0.24,
+        "l": 0.96
+       }
+      },
+      {
+       "color": "#efeee9",
+       "top": 6114,
+       "hsl": {
+        "h": 50,
+        "s": 0.16,
+        "l": 0.93
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#111111",
+       "share": 0.65
+      },
+      {
+       "color": "#62625e",
+       "share": 0.18
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.09
+      },
+      {
+       "color": "#5f6059",
+       "share": 0.08
+      }
+     ],
+     "button": {
+      "bg": "#111111",
+      "hsl": {
+       "h": 0,
+       "s": 0,
+       "l": 0.07
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 2,
+     "inHero": 2,
+     "radius": 0,
+     "height": 54,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "Explore Quiet Forms"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 1,
+     "hairlineSamples": [
+      "div.email-row 572px"
+     ],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 20,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.84
+     }
+    ],
+    "nav": {
+     "links": 7,
+     "fixed": true,
+     "height": 88,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "manrope"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 6651,
+    "margins": {
+     "left": 58,
+     "right": 58
+    },
+    "sections": [
+     {
+      "sel": "section.hero.hero-slide-0",
+      "tag": "section",
+      "top": 125,
+      "height": 760,
+      "words": 22,
+      "media": 1,
+      "middle": 701,
+      "heading": {
+       "text": "A quieter kind of company.",
+       "size": 72,
+       "tag": "h1"
+      },
+      "left": 58,
+      "right": 58,
+      "textLeft": 58,
+      "textRight": 905,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.container",
+      "tag": "section",
+      "top": 885,
+      "height": 813,
+      "words": 35,
+      "media": 3,
+      "middle": 24,
+      "heading": {
+       "text": "Worlds to get lost in.",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 58,
+      "right": 58,
+      "textLeft": 58,
+      "textRight": 87,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.container",
+      "tag": "section",
+      "top": 1697,
+      "height": 691,
+      "words": 53,
+      "media": 4,
+      "middle": 0,
+      "heading": {
+       "text": "New to the atelier.",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 58,
+      "right": 16,
+      "textLeft": 58,
+      "textRight": 16,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.character-section",
+      "tag": "section",
+      "top": 2496,
+      "height": 719,
+      "words": 47,
+      "media": 4,
+      "middle": 24,
+      "heading": {
+       "text": "A familiar feeling. A new friend.",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 58,
+      "right": 58,
+      "textLeft": 58,
+      "textRight": 87,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.container",
+      "tag": "section",
+      "top": 3215,
+      "height": 691,
+      "words": 59,
+      "media": 4,
+      "middle": 0,
+      "heading": {
+       "text": "The ones you come back to.",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 58,
+      "right": 16,
+      "textLeft": 58,
+      "textRight": 16,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.brand-story",
+      "tag": "section",
+      "top": 4013,
+      "height": 600,
+      "words": 30,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Quiet forms.",
+       "size": 36,
+       "tag": "h2"
+      },
+      "left": 990,
+      "right": 111,
+      "textLeft": 990,
+      "textRight": 111,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.container",
+      "tag": "section",
+      "top": 4613,
+      "height": 448,
+      "words": 46,
+      "media": 2,
+      "middle": 227,
+      "heading": {
+       "text": "Good things take their time.",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 58,
+      "right": 87,
+      "textLeft": 58,
+      "textRight": 87,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.container",
+      "tag": "section",
+      "top": 5062,
+      "height": 613,
+      "words": 47,
+      "media": 3,
+      "middle": 28,
+      "heading": {
+       "text": "Notes from the atelier.",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 58,
+      "right": 58,
+      "textLeft": 58,
+      "textRight": 87,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.container",
+      "tag": "div",
+      "top": 5774,
+      "height": 239,
+      "words": 28,
+      "media": 0,
+      "middle": 204,
+      "heading": {
+       "text": "A little inspiration,",
+       "size": 32,
+       "tag": "h2"
+      },
+      "left": 118,
+      "right": 118,
+      "textLeft": 118,
+      "textRight": 426,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.footer",
+      "tag": "footer",
+      "top": 6114,
+      "height": 537,
+      "words": 69,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "ATELIER OBJECTS",
+       "size": 150,
+       "tag": "div"
+      },
+      "left": 64,
+      "right": 64,
+      "textLeft": 64,
+      "textRight": 64,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "A quieter kind of company.",
+      "size": 72,
+      "top": 269,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 58,
+      "n": 13
+     },
+     {
+      "x": 395,
+      "n": 3
+     },
+     {
+      "x": 732,
+      "n": 3
+     },
+     {
+      "x": 990,
+      "n": 3
+     },
+     {
+      "x": 1069,
+      "n": 3
+     },
+     {
+      "x": 118,
+      "n": 2
+     },
+     {
+      "x": 507,
+      "n": 2
+     },
+     {
+      "x": 957,
+      "n": 2
+     },
+     {
+      "x": 256,
+      "n": 1
+     },
+     {
+      "x": 933,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 33,
+    "bodySize": 16,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 8,
+   "filled": [
+    0.73,
+    0.59,
+    0.76,
+    0.78,
+    0.64,
+    0.8,
+    0.54,
+    0.87
+   ],
+   "motion": {
+    "elements": 23,
+    "css": 4,
+    "transitions": 0,
+    "scripted": 19,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 7840,
+     "screens": 7.7,
+     "words": 451,
+     "img": 22,
+     "video": 0,
+     "canvas": 0,
+     "svg": 37,
+     "sections": 9,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 2,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "campaign.webp",
+      "campaign.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "A quieter kind of company.",
+     "words": 5,
+     "chars": 26,
+     "lines": 2,
+     "size": 56,
+     "vw": 7.3,
+     "font": "Manrope",
+     "weight": 500,
+     "tracking": -0.055,
+     "leading": 1.02,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.51,
+     "top": 198,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "A quieter kind of company.",
+     "words": 5,
+     "lines": 2,
+     "size": 56,
+     "font": "Manrope"
+    },
+    "headings": [
+     {
+      "text": "A quieter kind of company.",
+      "words": 5,
+      "chars": 26,
+      "lines": 2,
+      "size": 56,
+      "vw": 7.3,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.055,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.51,
+      "top": 198,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Worlds to get lost in.",
+      "words": 5,
+      "chars": 22,
+      "lines": 1,
+      "size": 32,
+      "vw": 4.2,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.13,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.53,
+      "top": 833,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "New to the atelier.",
+      "words": 4,
+      "chars": 19,
+      "lines": 1,
+      "size": 32,
+      "vw": 4.2,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.13,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.5,
+      "top": 1411,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "A familiar feeling. A new friend.",
+      "words": 6,
+      "chars": 33,
+      "lines": 1,
+      "size": 32,
+      "vw": 4.2,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.13,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.54,
+      "top": 2728,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The ones you come back to.",
+      "words": 6,
+      "chars": 26,
+      "lines": 1,
+      "size": 32,
+      "vw": 4.2,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.13,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.55,
+      "top": 3910,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Quiet forms. Lasting stories.",
+      "words": 4,
+      "chars": 29,
+      "lines": 2,
+      "size": 36,
+      "vw": 4.7,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.13,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.38,
+      "top": 5298,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Good things take their time.",
+      "words": 5,
+      "chars": 28,
+      "lines": 1,
+      "size": 32,
+      "vw": 4.2,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.13,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.49,
+      "top": 5792,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Notes from the atelier.",
+      "words": 4,
+      "chars": 23,
+      "lines": 1,
+      "size": 32,
+      "vw": 4.2,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.13,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.47,
+      "top": 6356,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "A little inspiration, every now and then.",
+      "words": 7,
+      "chars": 41,
+      "lines": 2,
+      "size": 32,
+      "vw": 4.2,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.13,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.82,
+      "top": 6854,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Objects with a story. A place in yours.",
+      "words": 8,
+      "chars": 39,
+      "lines": 2,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.13,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.36,
+      "top": 7309,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "ATELIER OBJECTS",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 79.9,
+      "vw": 10.4,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.065,
+      "leading": 1.1,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 7677,
+      "tag": "div",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 11,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 1,
+     "medianWords": 5,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Manrope",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      13,
+      14,
+      16,
+      18,
+      20,
+      21,
+      25,
+      28,
+      32,
+      36,
+      56,
+      80
+     ],
+     "sizeCount": 12,
+     "notLoaded": [],
+     "body": {
+      "font": "Manrope",
+      "size": 16,
+      "leading": 1.7,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 1.8
+     },
+     "measureChars": 36,
+     "max": {
+      "size": 79.9,
+      "vw": 10.4,
+      "font": "Manrope",
+      "text": "ATELIER OBJECTS"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.01,
+     "centerShare": 0.01,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#c6bfb3",
+       "top": 113,
+       "hsl": {
+        "h": 38,
+        "s": 0.14,
+        "l": 0.74
+       }
+      },
+      {
+       "color": "#f7f6f2",
+       "top": 113,
+       "hsl": {
+        "h": 48,
+        "s": 0.24,
+        "l": 0.96
+       }
+      },
+      {
+       "color": "#efeee9",
+       "top": 7239,
+       "hsl": {
+        "h": 50,
+        "s": 0.16,
+        "l": 0.93
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#111111",
+       "share": 0.66
+      },
+      {
+       "color": "#62625e",
+       "share": 0.18
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.08
+      },
+      {
+       "color": "#5f6059",
+       "share": 0.08
+      }
+     ],
+     "button": {
+      "bg": "#111111",
+      "hsl": {
+       "h": 0,
+       "s": 0,
+       "l": 0.07
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 2,
+     "inHero": 2,
+     "radius": 0,
+     "height": 54,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "Explore Quiet Forms"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 1,
+     "hairlineSamples": [
+      "div.email-row 627px"
+     ],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 20,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.63
+     }
+    ],
+    "nav": {
+     "links": 2,
+     "fixed": true,
+     "height": 76,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "manrope"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 7840,
+    "margins": {
+     "left": 31,
+     "right": 31
+    },
+    "sections": [
+     {
+      "sel": "section.hero.hero-slide-0",
+      "tag": "section",
+      "top": 113,
+      "height": 640,
+      "words": 22,
+      "media": 1,
+      "middle": 189,
+      "heading": {
+       "text": "A quieter kind of company.",
+       "size": 56,
+       "tag": "h1"
+      },
+      "left": 31,
+      "right": 31,
+      "textLeft": 31,
+      "textRight": 366,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.container",
+      "tag": "section",
+      "top": 753,
+      "height": 578,
+      "words": 35,
+      "media": 3,
+      "middle": 18,
+      "heading": {
+       "text": "Worlds to get lost in.",
+       "size": 32,
+       "tag": "h2"
+      },
+      "left": 31,
+      "right": 31,
+      "textLeft": 31,
+      "textRight": 60,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.container",
+      "tag": "section",
+      "top": 1331,
+      "height": 1252,
+      "words": 53,
+      "media": 4,
+      "middle": 0,
+      "heading": {
+       "text": "New to the atelier.",
+       "size": 32,
+       "tag": "h2"
+      },
+      "left": 31,
+      "right": 0,
+      "textLeft": 31,
+      "textRight": -11,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.character-section",
+      "tag": "section",
+      "top": 2663,
+      "height": 1167,
+      "words": 47,
+      "media": 4,
+      "middle": 0,
+      "heading": {
+       "text": "A familiar feeling. A new friend.",
+       "size": 32,
+       "tag": "h2"
+      },
+      "left": 31,
+      "right": 31,
+      "textLeft": 31,
+      "textRight": 60,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.container",
+      "tag": "section",
+      "top": 3830,
+      "height": 1252,
+      "words": 59,
+      "media": 4,
+      "middle": 0,
+      "heading": {
+       "text": "The ones you come back to.",
+       "size": 32,
+       "tag": "h2"
+      },
+      "left": 31,
+      "right": 0,
+      "textLeft": 31,
+      "textRight": -11,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.brand-story",
+      "tag": "section",
+      "top": 5162,
+      "height": 550,
+      "words": 30,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Quiet forms.",
+       "size": 36,
+       "tag": "h2"
+      },
+      "left": 417,
+      "right": 63,
+      "textLeft": 417,
+      "textRight": 63,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.container",
+      "tag": "section",
+      "top": 5712,
+      "height": 563,
+      "words": 46,
+      "media": 0,
+      "middle": 188,
+      "heading": {
+       "text": "Good things take their time.",
+       "size": 32,
+       "tag": "h2"
+      },
+      "left": 31,
+      "right": 60,
+      "textLeft": 31,
+      "textRight": 60,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.container",
+      "tag": "section",
+      "top": 6276,
+      "height": 458,
+      "words": 47,
+      "media": 3,
+      "middle": 20,
+      "heading": {
+       "text": "Notes from the atelier.",
+       "size": 32,
+       "tag": "h2"
+      },
+      "left": 31,
+      "right": 31,
+      "textLeft": 31,
+      "textRight": 60,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.container",
+      "tag": "div",
+      "top": 6814,
+      "height": 346,
+      "words": 28,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "A little inspiration,",
+       "size": 32,
+       "tag": "h2"
+      },
+      "left": 71,
+      "right": 71,
+      "textLeft": 71,
+      "textRight": 269,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.footer",
+      "tag": "footer",
+      "top": 7239,
+      "height": 600,
+      "words": 69,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "ATELIER OBJECTS",
+       "size": 80,
+       "tag": "div"
+      },
+      "left": 31,
+      "right": 31,
+      "textLeft": 31,
+      "textRight": 31,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "A quieter kind of company.",
+      "size": 56,
+      "top": 198,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 31,
+      "n": 16
+     },
+     {
+      "x": 393,
+      "n": 6
+     },
+     {
+      "x": 417,
+      "n": 3
+     },
+     {
+      "x": 71,
+      "n": 2
+     },
+     {
+      "x": 187,
+      "n": 2
+     },
+     {
+      "x": 272,
+      "n": 2
+     },
+     {
+      "x": 514,
+      "n": 2
+     }
+    ],
+    "leftBlocks": 33,
+    "bodySize": 16,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 10,
+   "filled": [
+    0.87,
+    0.69,
+    0.55,
+    0.81,
+    0.78,
+    0.82,
+    0.54,
+    0.79,
+    0.71,
+    0.83
+   ],
+   "motion": {
+    "elements": 19,
+    "css": 4,
+    "transitions": 0,
+    "scripted": 15,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 8068,
+     "screens": 9.6,
+     "words": 429,
+     "img": 22,
+     "video": 0,
+     "canvas": 0,
+     "svg": 37,
+     "sections": 9,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 2,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "campaign.webp",
+      "campaign.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 2,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "A quieter kind of company.",
+     "words": 5,
+     "chars": 26,
+     "lines": 2,
+     "size": 42,
+     "vw": 10.8,
+     "font": "Manrope",
+     "weight": 500,
+     "tracking": -0.055,
+     "leading": 1.02,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.82,
+     "top": 157,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "A quieter kind of company.",
+     "words": 5,
+     "lines": 2,
+     "size": 42,
+     "font": "Manrope"
+    },
+    "headings": [
+     {
+      "text": "A quieter kind of company.",
+      "words": 5,
+      "chars": 26,
+      "lines": 2,
+      "size": 42,
+      "vw": 10.8,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.055,
+      "leading": 1.02,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.82,
+      "top": 157,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Worlds to get lost in.",
+      "words": 5,
+      "chars": 22,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 874,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Quiet Forms",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.025,
+      "leading": 1.13,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.33,
+      "top": 1359,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "After Hours",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.025,
+      "leading": 1.13,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.31,
+      "top": 1755,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Earth Notes",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.025,
+      "leading": 1.13,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.32,
+      "top": 2152,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "New to the atelier.",
+      "words": 4,
+      "chars": 19,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 2274,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "A familiar feeling. A new friend.",
+      "words": 6,
+      "chars": 33,
+      "lines": 2,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 2979,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Mori",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 23,
+      "vw": 5.9,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.025,
+      "leading": 1.13,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.12,
+      "top": 3383,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Lune",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 23,
+      "vw": 5.9,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.025,
+      "leading": 1.13,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.13,
+      "top": 3383,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Pico",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 23,
+      "vw": 5.9,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.025,
+      "leading": 1.13,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.11,
+      "top": 3685,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Sora",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 23,
+      "vw": 5.9,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.025,
+      "leading": 1.13,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.12,
+      "top": 3685,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "The ones you come back to.",
+      "words": 6,
+      "chars": 26,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 3882,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Quiet forms. Lasting stories.",
+      "words": 4,
+      "chars": 29,
+      "lines": 2,
+      "size": 29,
+      "vw": 7.4,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.13,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.75,
+      "top": 4896,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Good things take their time.",
+      "words": 5,
+      "chars": 28,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 5257,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Notes from the atelier.",
+      "words": 4,
+      "chars": 23,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 5751,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The space between things",
+      "words": 4,
+      "chars": 24,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.025,
+      "leading": 1.13,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 6170,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "A language of forms",
+      "words": 4,
+      "chars": 19,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.025,
+      "leading": 1.13,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 6508,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "On collecting slowly",
+      "words": 3,
+      "chars": 20,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.025,
+      "leading": 1.13,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 6846,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "A little inspiration, every now and then.",
+      "words": 7,
+      "chars": 41,
+      "lines": 2,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.13,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.78,
+      "top": 7000,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Objects with a story. A place in yours.",
+      "words": 8,
+      "chars": 39,
+      "lines": 2,
+      "size": 30,
+      "vw": 7.7,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.13,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 7418,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "ATELIER OBJECTS",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 39,
+      "vw": 10,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.065,
+      "leading": 1.1,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 7921,
+      "tag": "div",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 21,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 1,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Manrope",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      13,
+      14,
+      16,
+      17,
+      21,
+      23,
+      24,
+      28,
+      29,
+      30,
+      39,
+      42
+     ],
+     "sizeCount": 12,
+     "notLoaded": [],
+     "body": {
+      "font": "Manrope",
+      "size": 16,
+      "leading": 1.7,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 1.8
+     },
+     "measureChars": 37,
+     "max": {
+      "size": 42,
+      "vw": 10.8,
+      "font": "Manrope",
+      "text": "A quieter kind of company."
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.01,
+     "centerShare": 0.01,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#c6bfb3",
+       "top": 109,
+       "hsl": {
+        "h": 38,
+        "s": 0.14,
+        "l": 0.74
+       }
+      },
+      {
+       "color": "#f7f6f2",
+       "top": 109,
+       "hsl": {
+        "h": 48,
+        "s": 0.24,
+        "l": 0.96
+       }
+      },
+      {
+       "color": "#efeee9",
+       "top": 7373,
+       "hsl": {
+        "h": 50,
+        "s": 0.16,
+        "l": 0.93
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#111111",
+       "share": 0.67
+      },
+      {
+       "color": "#62625e",
+       "share": 0.18
+      },
+      {
+       "color": "#5f6059",
+       "share": 0.08
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.07
+      }
+     ],
+     "button": {
+      "bg": "#111111",
+      "hsl": {
+       "h": 0,
+       "s": 0,
+       "l": 0.07
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 2,
+     "inHero": 2,
+     "radius": 0,
+     "height": 54,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "Explore Quiet Forms"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 1,
+     "hairlineSamples": [
+      "div.email-row 306px"
+     ],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 16,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.83
+     }
+    ],
+    "nav": {
+     "links": 1,
+     "fixed": true,
+     "height": 74,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "manrope"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 8068,
+    "margins": {
+     "left": 20,
+     "right": 20
+    },
+    "sections": [
+     {
+      "sel": "section.hero.hero-slide-0",
+      "tag": "section",
+      "top": 109,
+      "height": 700,
+      "words": 22,
+      "media": 1,
+      "middle": 38,
+      "heading": {
+       "text": "A quieter kind of company.",
+       "size": 42,
+       "tag": "h1"
+      },
+      "left": 22,
+      "right": 22,
+      "textLeft": 22,
+      "textRight": 90,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.section-heading",
+      "tag": "div",
+      "top": 874,
+      "height": 150,
+      "words": 11,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 20,
+      "right": 40,
+      "textLeft": 20,
+      "textRight": 40,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.collection-grid",
+      "tag": "div",
+      "top": 1051,
+      "height": 1158,
+      "words": 19,
+      "media": 3,
+      "middle": 0,
+      "heading": {
+       "text": "Quiet Forms",
+       "size": 24,
+       "tag": "h3"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 192,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.container",
+      "tag": "section",
+      "top": 2209,
+      "height": 650,
+      "words": 45,
+      "media": 4,
+      "middle": 639,
+      "heading": {
+       "text": "New to the atelier.",
+       "size": 28,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 0,
+      "textLeft": 20,
+      "textRight": -565,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.character-section",
+      "tag": "section",
+      "top": 2924,
+      "height": 893,
+      "words": 47,
+      "media": 4,
+      "middle": 0,
+      "heading": {
+       "text": "A familiar feeling. A new friend.",
+       "size": 28,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 25,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.container",
+      "tag": "section",
+      "top": 3817,
+      "height": 650,
+      "words": 51,
+      "media": 4,
+      "middle": 639,
+      "heading": {
+       "text": "The ones you come back to.",
+       "size": 28,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 0,
+      "textLeft": 20,
+      "textRight": -565,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.brand-story",
+      "tag": "section",
+      "top": 4532,
+      "height": 660,
+      "words": 30,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Quiet forms.",
+       "size": 29,
+       "tag": "h2"
+      },
+      "left": 48,
+      "right": 54,
+      "textLeft": 48,
+      "textRight": 54,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.container",
+      "tag": "section",
+      "top": 5192,
+      "height": 494,
+      "words": 46,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Good things take their time.",
+       "size": 28,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 38,
+      "textLeft": 20,
+      "textRight": 38,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.container",
+      "tag": "section",
+      "top": 5686,
+      "height": 1220,
+      "words": 47,
+      "media": 3,
+      "middle": 0,
+      "heading": {
+       "text": "Notes from the atelier.",
+       "size": 28,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 82,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.container",
+      "tag": "div",
+      "top": 6972,
+      "height": 336,
+      "words": 28,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "A little inspiration,",
+       "size": 28,
+       "tag": "h2"
+      },
+      "left": 42,
+      "right": 42,
+      "textLeft": 42,
+      "textRight": 82,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.footer",
+      "tag": "footer",
+      "top": 7373,
+      "height": 695,
+      "words": 69,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Objects with a story.",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 20,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "A quieter kind of company.",
+      "size": 42,
+      "top": 157,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 20,
+      "n": 16
+     },
+     {
+      "x": 42,
+      "n": 5
+     },
+     {
+      "x": 140,
+      "n": 2
+     },
+     {
+      "x": 203,
+      "n": 2
+     }
+    ],
+    "leftBlocks": 25,
+    "bodySize": 16,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "hairline",
+   "width": 1440,
+   "message": "1 thin rule(s)/divider line(s): div.email-row 572px",
+   "fix": "Delete. Separate with space, a tone change, or scale. Lines are only for real tables and form fields.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "palette-cream",
+   "width": 1440,
+   "message": "Yellow-cream background (section #f7f6f2, section #efeee9).",
+   "fix": "Use the drawn palette. If you want warmth, take a low-chroma stone or bone, not a yellow cream.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "size-count",
+   "width": 1440,
+   "message": "13 different font sizes (13, 14, 16, 20, 22, 23, 24, 25, 32, 36, 40, 72, 150).",
+   "fix": "A page needs about five: display, heading, lead, body, small.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "ragged-edges",
+   "width": 1440,
+   "message": "Left-aligned text starts at 10 different lines (58px, 395px, 732px, 990px, 1069px, 118px, 507px); the three most used hold only 58% of it.",
+   "fix": "Pick two or three anchor lines from the grid and start every heading and paragraph on one of them."
+  },
+  {
+   "level": "WARN",
+   "id": "side-scroll",
+   "width": 390,
+   "message": "2 row(s) scroll sideways with content past their edge.",
+   "fix": "Jurors and most visitors read a row cut at the edge as clipped, not as scrollable. Wrap it onto more lines, or end it inside the grid."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "C:\\Users\\ilove\\Documents\\Codex\\2026-11-08\\premium-brand-commerce-website-codex-full\\outputs\\atelier-objects\\qa\\screenshots\\desktop-fold.jpg",
+   "pages": [
+    "C:\\Users\\ilove\\Documents\\Codex\\2026-11-08\\premium-brand-commerce-website-codex-full\\outputs\\atelier-objects\\qa\\screenshots\\desktop-page-01.jpg",
+    "C:\\Users\\ilove\\Documents\\Codex\\2026-11-08\\premium-brand-commerce-website-codex-full\\outputs\\atelier-objects\\qa\\screenshots\\desktop-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "C:\\Users\\ilove\\Documents\\Codex\\2026-11-08\\premium-brand-commerce-website-codex-full\\outputs\\atelier-objects\\qa\\screenshots\\tablet-fold.jpg",
+   "pages": [
+    "C:\\Users\\ilove\\Documents\\Codex\\2026-11-08\\premium-brand-commerce-website-codex-full\\outputs\\atelier-objects\\qa\\screenshots\\tablet-page-01.jpg",
+    "C:\\Users\\ilove\\Documents\\Codex\\2026-11-08\\premium-brand-commerce-website-codex-full\\outputs\\atelier-objects\\qa\\screenshots\\tablet-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "C:\\Users\\ilove\\Documents\\Codex\\2026-11-08\\premium-brand-commerce-website-codex-full\\outputs\\atelier-objects\\qa\\screenshots\\mobile-fold.jpg",
+   "pages": [
+    "C:\\Users\\ilove\\Documents\\Codex\\2026-11-08\\premium-brand-commerce-website-codex-full\\outputs\\atelier-objects\\qa\\screenshots\\mobile-page-01.jpg",
+    "C:\\Users\\ilove\\Documents\\Codex\\2026-11-08\\premium-brand-commerce-website-codex-full\\outputs\\atelier-objects\\qa\\screenshots\\mobile-page-02.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

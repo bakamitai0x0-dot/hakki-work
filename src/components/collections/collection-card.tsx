@@ -1,0 +1,2 @@
+import Link from 'next/link';import {ArrowUpRight} from 'lucide-react';import type {Collection} from '@/types';import {Media} from '@/components/ui/media';
+export function CollectionCard({collection}:{collection:Collection}){return <Link href={'/collections/'+collection.slug} className="collection-card"><Media src={collection.heroImage} alt={collection.title+' original sculpture study'} className="collection-image"/><div><h3>{collection.title}</h3><ArrowUpRight size={22}/></div><p>{collection.subtitle}</p></Link>}

@@ -1,0 +1,2 @@
+import Link from 'next/link';import {ArrowUpRight} from 'lucide-react';import type {Character} from '@/types';import {Media} from '@/components/ui/media';
+export function CharacterCard({character}:{character:Character}){return <Link className="character-card" href={'/characters/'+character.slug}><Media src={character.coverImage} alt={character.name+' original character study'}/><div><h3>{character.name}</h3><ArrowUpRight size={18}/></div><p>{character.introduction}</p></Link>}

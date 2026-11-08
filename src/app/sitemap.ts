@@ -1,0 +1,3 @@
+import type {MetadataRoute} from 'next';import {products,characters,collections,journals} from '@/data/catalog';export default function sitemap():MetadataRoute.Sitemap{const origin=process.env.NEXT_PUBLIC_SITE_URL||'https://atelier-objects.example';return ['','/shop','/collections','/characters','/new-releases','/journal','/about','/support',...products.map(p=>'/products/'+p.slug),...collections.map(c=>'/collections/'+c.slug),...characters.map(c=>'/characters/'+c.slug),...journals.map(j=>'/journal/'+j.slug)].map(p=>({url:origin+p+'/',changeFrequency:'weekly',priority:p===''?1:.7}))}
+
+export const dynamic = 'force-static';

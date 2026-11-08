@@ -1,0 +1,2 @@
+export const brand = { name: 'ATELIER OBJECTS', description: 'Artful objects. Quiet companions. Original collectible sculptures for the spaces we call our own.', currency: 'USD', email: 'hello@atelier-objects.example', demo: true };
+export const navigation = [{label:'Shop',href:'/shop'},{label:'Collections',href:'/collections'},{label:'Characters',href:'/characters'},{label:'Journal',href:'/journal'},{label:'Our atelier',href:'/about'}];

@@ -5,7 +5,7 @@ export const studio = {
   hero: {
     title: 'Your Ideas. Made Real.',
     description: 'From custom websites and apps to original characters, 3D models, collectibles, and personalized products — we bring creative ideas to life.',
-    image: "/media/studio-concepts/hero.jpg",
+    image: "/media/campaign.webp",
     imageAlt: 'AI-generated concept illustration of two character figurines on a limestone plinth.'
   },
   inquiry: { endpoint: null as string | null },

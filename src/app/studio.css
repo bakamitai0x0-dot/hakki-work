@@ -114,3 +114,22 @@
 .hw-creator figure{margin:0;min-width:0}
 .hw-creator figure .media{aspect-ratio:1.35}
 .hw-creator figcaption{margin-top:10px}
+
+/* The campaign fills the viewport, with its subjects framed on the right. */
+.hw-hero{position:relative;isolation:isolate;display:flex;align-items:center;max-width:none;min-height:100svh;background:#30251c;color:#fff}
+.hw-hero-copy{position:relative;z-index:1;width:100%;max-width:var(--max);margin-inline:auto;padding-block:64px 100px}
+.hw-hero-art,.hw-hero-art .media{position:absolute;inset:0;min-height:0;aspect-ratio:auto}
+.hw-hero-art .media img{object-position:center 55%}
+.hw-hero-art:after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,#1d140fbd 0%,#1d140f82 32%,transparent 72%);pointer-events:none}
+.hw-image-caption{z-index:1}
+.hw-hero-signature>span:last-child{color:#fff}
+.hw-hero .button{background:#fff;color:var(--ink)}
+.hw-hero .button:hover{background:var(--surface)}
+.hw-hero a:focus-visible{outline-color:#fff}
+@media(max-width:760px){
+  .hw-hero{align-items:flex-start;min-height:max(100svh,700px)}
+  .hw-hero-copy{padding-block:44px 105px}
+  .hw-hero-art .media img{object-position:70% bottom}
+  .hw-hero-art:after{background:linear-gradient(180deg,#1d140feb 0%,#1d140fa8 35%,transparent 72%)}
+  .hw-hero-signature{display:none}
+}

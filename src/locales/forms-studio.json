@@ -1,0 +1,366 @@
+{
+  "Customer Name": [
+    "客户姓名",
+    "Nama Pelanggan"
+  ],
+  "Email": [
+    "电子邮箱",
+    "E-mel"
+  ],
+  "(Required)": [
+    "（必填）",
+    "(Wajib)"
+  ],
+  "(Optional)": [
+    "（选填）",
+    "(Pilihan)"
+  ],
+  "Project Type": [
+    "项目类型",
+    "Jenis Projek"
+  ],
+  "Select a project type": [
+    "选择项目类型",
+    "Pilih Jenis Projek"
+  ],
+  "Project Description": [
+    "项目说明",
+    "Huraian Projek"
+  ],
+  "Estimated Budget": [
+    "预计预算",
+    "Anggaran Belanjawan"
+  ],
+  "Preferred Timeline": [
+    "期望时间",
+    "Jangka Masa Pilihan"
+  ],
+  "Business project inquiry": [
+    "商业项目咨询",
+    "Pertanyaan Projek Perniagaan"
+  ],
+  "Personal or creative project inquiry": [
+    "个人或创意项目咨询",
+    "Pertanyaan Projek Peribadi atau Kreatif"
+  ],
+  "Online inquiry delivery is not configured. You can check this form, but nothing will be sent or saved.": [
+    "线上询价尚未配置。您可检查表单，但资料不会发送或保存。",
+    "Penghantaran pertanyaan dalam talian belum dikonfigurasi. Anda boleh menyemak borang ini, tetapi tiada data dihantar atau disimpan."
+  ],
+  "Share the details below to request a project conversation.": [
+    "请填写以下信息，以便沟通项目需求。",
+    "Kongsikan butiran di bawah untuk membincangkan projek."
+  ],
+  "Tell us about the idea, what you need, and how it will be used. At least 30 characters.": [
+    "请说明创意、需求和用途，至少 30 个字符。",
+    "Ceritakan idea, keperluan dan kegunaannya. Sekurang-kurangnya 30 aksara."
+  ],
+  "Your budget range and currency": [
+    "预算范围和币种",
+    "Julat belanjawan dan mata wang"
+  ],
+  "A target date or flexible timeline": [
+    "目标日期或可调整的时间范围",
+    "Tarikh sasaran atau jadual fleksibel"
+  ],
+  "Check inquiry form": [
+    "检查询价表单",
+    "Semak Borang Pertanyaan"
+  ],
+  "Send Project Inquiry": [
+    "发送项目咨询",
+    "Hantar Pertanyaan Projek"
+  ],
+  "Inquiry received": [
+    "已收到咨询",
+    "Pertanyaan Diterima"
+  ],
+  "Sending inquiry…": [
+    "正在发送咨询…",
+    "Menghantar pertanyaan…"
+  ],
+  "Read the privacy policy.": [
+    "阅读隐私政策。",
+    "Baca dasar privasi."
+  ],
+  "File uploads are not available.": [
+    "暂不支持上传文件。",
+    "Muat naik fail belum tersedia."
+  ],
+  "Your details stay on this page. This preview does not transmit or store your contact information.": [
+    "资料只保留在此页面。预览不会发送或保存联系方式。",
+    "Butiran kekal pada halaman ini. Pratonton ini tidak menghantar atau menyimpan maklumat hubungan anda."
+  ],
+  "Your details will be sent to the configured inquiry service to respond to your project request.": [
+    "资料将发送给已配置的询价服务，以便回应您的项目请求。",
+    "Butiran anda akan dihantar kepada perkhidmatan pertanyaan yang dikonfigurasi untuk menjawab permintaan projek."
+  ],
+  "Your form is valid, but inquiry delivery is not configured. Nothing has been sent or stored. Please return once a contact channel is available.": [
+    "表单已通过检查，但询价发送服务尚未配置。没有资料发送或保存。联系渠道开通后请再试。",
+    "Borang anda sah, tetapi penghantaran pertanyaan belum dikonfigurasi. Tiada data dihantar atau disimpan. Sila kembali apabila saluran hubungan tersedia."
+  ],
+  "The inquiry service confirmed receipt. This is a project request, not an order or a confirmed quotation.": [
+    "询价服务已确认收件。这是一项项目咨询，尚未形成订单或确认报价。",
+    "Perkhidmatan pertanyaan mengesahkan penerimaan. Ini permintaan projek, bukan pesanan atau sebut harga yang disahkan."
+  ],
+  "We could not confirm delivery. Please try again later. No quotation or project has been confirmed.": [
+    "无法确认送达，请稍后再试。报价和项目均未确认。",
+    "Penghantaran tidak dapat disahkan. Sila cuba lagi kemudian. Tiada sebut harga atau projek disahkan."
+  ],
+  "Tell us what you have in mind. A character, a digital experience, an object, or a possibility still taking shape.": [
+    "告诉我们您的想法：角色、数字体验、实体作品，或尚在成形的创意。",
+    "Kongsikan idea anda, sama ada watak, pengalaman digital, objek atau kemungkinan yang sedang dibentuk."
+  ],
+  "Required fields are marked. Budget and timeline are optional. Reference uploads will be available only after a secure upload service is connected.": [
+    "必填项已标明，预算和时间为选填。接入安全上传服务后才可上传参考资料。",
+    "Medan wajib ditandakan. Belanjawan dan jadual adalah pilihan. Muat naik rujukan hanya tersedia selepas perkhidmatan selamat disambungkan."
+  ],
+  "IP / Character Design": [
+    "IP／角色设计",
+    "Reka Bentuk IP / Watak"
+  ],
+  "Website Development": [
+    "网站开发",
+    "Pembangunan Laman Web"
+  ],
+  "APP Development": [
+    "应用开发",
+    "Pembangunan Aplikasi"
+  ],
+  "3D Printing": [
+    "3D 打印",
+    "Cetakan 3D"
+  ],
+  "Custom Figurine": [
+    "定制模型",
+    "Figurin Tempahan"
+  ],
+  "Cosplay Props": [
+    "Cosplay 道具",
+    "Prop Cosplay"
+  ],
+  "Other": [
+    "其他",
+    "Lain-lain"
+  ],
+  "Creative & IP Design": [
+    "创意与 IP 设计",
+    "Reka Bentuk Kreatif dan IP"
+  ],
+  "Web & App Development": [
+    "网站与应用开发",
+    "Pembangunan Web dan Aplikasi"
+  ],
+  "Custom Manufacturing": [
+    "定制生产",
+    "Pembuatan Tempahan"
+  ],
+  "Distinctive characters and considered forms, developed from your first idea.": [
+    "从最初的创意出发，打造有辨识度的角色和造型。",
+    "Watak yang tersendiri dan bentuk yang teliti, dibangunkan daripada idea pertama anda."
+  ],
+  "Thoughtful digital experiences built around the way your business works.": [
+    "根据您的业务运作方式打造数字体验。",
+    "Pengalaman digital yang direka mengikut cara perniagaan anda beroperasi."
+  ],
+  "A practical path from digital form to a personalized physical creation.": [
+    "从数字模型走向个性化实体作品。",
+    "Laluan praktikal daripada bentuk digital kepada ciptaan fizikal peribadi."
+  ],
+  "Original Character Design": [
+    "原创角色设计",
+    "Reka Bentuk Watak Asli"
+  ],
+  "IP Development": [
+    "IP 开发",
+    "Pembangunan IP"
+  ],
+  "3D Character Modeling": [
+    "3D 角色建模",
+    "Pemodelan Watak 3D"
+  ],
+  "Sculptures & Collectibles": [
+    "雕塑与收藏品",
+    "Arca dan Koleksi"
+  ],
+  "Character Merchandise": [
+    "角色周边",
+    "Barangan Watak"
+  ],
+  "Business Websites": [
+    "企业网站",
+    "Laman Web Perniagaan"
+  ],
+  "E-Commerce Websites": [
+    "电商网站",
+    "Laman Web E-Dagang"
+  ],
+  "Web Applications": [
+    "网页应用",
+    "Aplikasi Web"
+  ],
+  "Mobile Apps": [
+    "移动应用",
+    "Aplikasi Mudah Alih"
+  ],
+  "Custom Management Systems": [
+    "定制管理系统",
+    "Sistem Pengurusan Tersuai"
+  ],
+  "Product Prototyping": [
+    "商品原型制作",
+    "Pembuatan Prototaip Produk"
+  ],
+  "Personalized Gifts": [
+    "个性化礼品",
+    "Hadiah Peribadi"
+  ],
+  "Custom Figurines": [
+    "定制模型",
+    "Figurin Tempahan"
+  ],
+  "Cosplay Display Props": [
+    "Cosplay 展示道具",
+    "Prop Pameran Cosplay"
+  ],
+  "IP & Characters": [
+    "IP 与角色",
+    "IP dan Watak"
+  ],
+  "Website & Apps": [
+    "网站与应用",
+    "Laman Web dan Aplikasi"
+  ],
+  "3D Models": [
+    "3D 模型",
+    "Model 3D"
+  ],
+  "Custom Products": [
+    "定制商品",
+    "Produk Tempahan"
+  ],
+  "Imagine": [
+    "构思",
+    "Bayangkan"
+  ],
+  "Create": [
+    "创作",
+    "Cipta"
+  ],
+  "Make Real": [
+    "实现",
+    "Realisasikan"
+  ],
+  "Concept & Design": [
+    "概念与设计",
+    "Konsep dan Reka Bentuk"
+  ],
+  "Digital Development": [
+    "数字开发",
+    "Pembangunan Digital"
+  ],
+  "Physical Production": [
+    "实体制作",
+    "Pengeluaran Fizikal"
+  ],
+  "Custom Mini Figures": [
+    "定制迷你模型",
+    "Figurin Mini Tempahan"
+  ],
+  "Character Models": [
+    "角色模型",
+    "Model Watak"
+  ],
+  "Cosplay Creations": [
+    "Cosplay 创作",
+    "Ciptaan Cosplay"
+  ],
+  "Tell Us Your Idea": [
+    "告诉我们您的想法",
+    "Kongsikan Idea Anda"
+  ],
+  "Get a Quotation": [
+    "获取报价",
+    "Dapatkan Sebut Harga"
+  ],
+  "Design & Production": [
+    "设计与制作",
+    "Reka Bentuk dan Pengeluaran"
+  ],
+  "Delivered to You": [
+    "交付给您",
+    "Dihantar kepada Anda"
+  ],
+  "Share your concept, references, requirements and budget.": [
+    "分享概念、参考资料、需求与预算。",
+    "Kongsikan konsep, rujukan, keperluan dan belanjawan."
+  ],
+  "Receive a quotation based on your project requirements.": [
+    "根据项目需求获取报价。",
+    "Terima sebut harga berdasarkan keperluan projek."
+  ],
+  "Your project moves into development or production after confirmation.": [
+    "确认后，项目进入开发或制作。",
+    "Projek memasuki peringkat pembangunan atau pengeluaran selepas pengesahan."
+  ],
+  "Receive your completed digital project or physical creation.": [
+    "接收完成的数字项目或实体作品。",
+    "Terima projek digital atau ciptaan fizikal yang telah siap."
+  ],
+  "Here to help.": [
+    "我们随时提供帮助。",
+    "Kami Sedia Membantu."
+  ],
+  "Form with feeling.": [
+    "有温度的造型。",
+    "Bentuk yang Berjiwa."
+  ],
+  "A transparent demonstration.": [
+    "透明的演示体验。",
+    "Demonstrasi yang Telus."
+  ],
+  "Return home": [
+    "返回首页",
+    "Kembali ke Laman Utama"
+  ],
+  "Try again": [
+    "重试",
+    "Cuba Lagi"
+  ],
+  "Common questions": [
+    "常见问题",
+    "Soalan Lazim"
+  ],
+  "Privacy & terms": [
+    "隐私与条款",
+    "Privasi dan Terma"
+  ],
+  "Original media & credits": [
+    "原创素材与鸣谢",
+    "Media Asli dan Kredit"
+  ],
+  "Enter your name (up to 80 characters).": [
+    "请输入姓名，最多 80 个字符。",
+    "Masukkan nama anda, maksimum 80 aksara."
+  ],
+  "Enter a valid email address.": [
+    "请输入有效邮箱地址。",
+    "Masukkan alamat e-mel yang sah."
+  ],
+  "Choose a project type.": [
+    "请选择项目类型。",
+    "Pilih jenis projek."
+  ],
+  "Describe your project in 30–5,000 characters.": [
+    "请用 30 至 5,000 个字符描述项目。",
+    "Huraikan projek dalam 30 hingga 5,000 aksara."
+  ],
+  "Keep your budget note under 120 characters.": [
+    "预算说明不得超过 120 个字符。",
+    "Hadkan catatan belanjawan kepada 120 aksara."
+  ],
+  "Keep your timeline note under 120 characters.": [
+    "时间说明不得超过 120 个字符。",
+    "Hadkan catatan jadual kepada 120 aksara."
+  ]
+}

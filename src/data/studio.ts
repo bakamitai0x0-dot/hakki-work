@@ -5,8 +5,8 @@ export const studio = {
   hero: {
     title: 'Your Ideas. Made Real.',
     description: 'From custom websites and apps to original characters, 3D models, collectibles, and personalized products — we bring creative ideas to life.',
-    image: '/media/campaign.webp',
-    imageAlt: 'Original ceramic character concept in a sunlit studio. An existing AI-generated concept visual, not a commissioned product.'
+    image: "/media/studio-concepts/hero.jpg",
+    imageAlt: 'AI-generated concept illustration of two character figurines on a limestone plinth.'
   },
   inquiry: { endpoint: null as string | null },
 };
@@ -16,29 +16,29 @@ export const studioNavigation = [
   {label:'About',href:'/about'}, {label:'Contact',href:'/#contact'},
 ];
 export const services = [
-  {id:'creative',title:'Creative & IP Design',description:'Distinctive characters and considered forms, developed from your first idea.',image:'/media/mori-detail.svg',items:['Original Character Design','IP Development','3D Character Modeling','Sculptures & Collectibles','Character Merchandise'],projectType:'IP / Character Design'},
-  {id:'digital',title:'Web & App Development',description:'Thoughtful digital experiences built around the way your business works.',image:'/media/website-concept.webp',items:['Business Websites','E-Commerce Websites','Web Applications','Mobile Apps','Custom Management Systems'],projectType:'Website Development'},
-  {id:'making',title:'Custom Manufacturing',description:'A practical path from digital form to a personalized physical creation.',image:'/media/collection-earth.svg',items:['3D Printing','Product Prototyping','Personalized Gifts','Custom Figurines','Cosplay Display Props'],projectType:'3D Printing'},
+  {id:'creative',title:'Creative & IP Design',description:'Distinctive characters and considered forms, developed from your first idea.',image:"/media/studio-concepts/sketch.jpg",items:['Original Character Design','IP Development','3D Character Modeling','Sculptures & Collectibles','Character Merchandise'],projectType:'IP / Character Design'},
+  {id:'digital',title:'Web & App Development',description:'Thoughtful digital experiences built around the way your business works.',image:"/media/studio-concepts/web.jpg",items:['Business Websites','E-Commerce Websites','Web Applications','Mobile Apps','Custom Management Systems'],projectType:'Website Development'},
+  {id:'making',title:'Custom Manufacturing',description:'A practical path from digital form to a personalized physical creation.',image:"/media/studio-concepts/making.jpg",items:['3D Printing','Product Prototyping','Personalized Gifts','Custom Figurines','Cosplay Display Props'],projectType:'3D Printing'},
 ];
 export const workCategories = ['All','IP & Characters','Website & Apps','3D Models','Custom Products'] as const;
 export type WorkCategory = typeof workCategories[number];
 export const featuredWorks = [
-  {id:'character-study',name:'Quiet companions',category:'IP & Characters' as WorkCategory,image:'/media/collection-quiet.svg',description:'An internal exploration of original character silhouettes and imagined worlds.',detail:'Original character studies from the existing demonstration collection. Presented as an internal concept, without a client commission or commercial outcome.',href:'/characters',linkLabel:'Explore the character studies'},
-  {id:'commerce-study',name:'An editorial storefront',category:'Website & Apps' as WorkCategory,image:'/media/website-concept.webp',description:'An internal commerce interface study, connecting storytelling and product discovery.',detail:'The existing ATELIER OBJECTS demonstration storefront. Its mock catalog, product pages, local bag and demonstration checkout remain available. This is not a client case study.',href:'/shop',linkLabel:'Explore the demonstration shop'},
-  {id:'form-study',name:'A study in soft forms',category:'3D Models' as WorkCategory,image:'/media/mori.svg',description:'A visual direction for a rounded character, developed as an illustrative form study.',detail:'An original SVG visual study. No production-ready 3D model, print or completed manufacturing project is claimed.',href:'/characters/mori',linkLabel:'View the original concept'},
-  {id:'object-study',name:'Objects with personality',category:'Custom Products' as WorkCategory,image:'/media/collection-earth.svg',description:'An internal concept for character-led keepsakes and personalized objects.',detail:'An illustrative collection concept. Customization, material, manufacturing feasibility, price and availability would all require a separate quotation.',href:'/collections/earth-notes',linkLabel:'Explore the collection concept'},
+  {id:'character-study',name:'Quiet companions',category:'IP & Characters' as WorkCategory,image:"/media/studio-concepts/sketch.jpg",description:'An internal exploration of original character silhouettes and imagined worlds.',detail:'An AI-generated sketch exploring an original character concept. Presented as an internal concept, without a client commission or commercial outcome.',href:'/characters',linkLabel:'Explore the character studies'},
+  {id:'commerce-study',name:'An editorial storefront',category:'Website & Apps' as WorkCategory,image:"/media/studio-concepts/web.jpg",description:'An internal commerce interface study, connecting storytelling and product discovery.',detail:'The existing ATELIER OBJECTS demonstration storefront. Its mock catalog, product pages, local bag and demonstration checkout remain available. This is not a client case study.',href:'/shop',linkLabel:'Explore the demonstration shop'},
+  {id:'form-study',name:'A study in soft forms',category:'3D Models' as WorkCategory,image:"/media/studio-concepts/model.jpg",description:'A visual direction for a rounded character, developed as an illustrative form study.',detail:'An AI-generated concept visualization of a digital sculpt.',href:'/characters/mori',linkLabel:'View the original concept'},
+  {id:'object-study',name:'Objects with personality',category:'Custom Products' as WorkCategory,image:"/media/studio-concepts/gift.jpg",description:'An internal concept for character-led keepsakes and personalized objects.',detail:'An illustrative collection concept. Customization, material, manufacturing feasibility, price and availability would all require a separate quotation.',href:'/collections/earth-notes',linkLabel:'Explore the collection concept'},
 ];
 export const ideaSteps = [
-  {title:'Imagine',subtitle:'Concept & Design',description:'Find the character of your idea. Explore its purpose, visual language and possibilities.',image:'/media/collection-quiet.svg'},
-  {title:'Create',subtitle:'Digital Development',description:'Shape it into a useful digital experience, a character study or a considered model.',image:'/media/website-concept.webp'},
-  {title:'Make Real',subtitle:'Physical Production',description:'Explore materials, prototypes and a practical route toward a physical creation.',image:'/media/collection-earth.svg'},
+  {title:'Imagine',subtitle:'Concept & Design',description:'Find the character of your idea. Explore its purpose, visual language and possibilities.',image:"/media/studio-concepts/sketch.jpg"},
+  {title:'Create',subtitle:'Digital Development',description:'Shape it into a useful digital experience, a character study or a considered model.',image:"/media/studio-concepts/web.jpg"},
+  {title:'Make Real',subtitle:'Physical Production',description:'Explore materials, prototypes and a practical route toward a physical creation.',image:"/media/studio-concepts/making.jpg"},
 ];
 export const businessSolutions = ['Brand & IP Development','Business Websites & E-Commerce','Custom Product Prototyping','Corporate Merchandise & Collectibles'];
 export const customCategories = [
-  {name:'Custom Mini Figures',image:'/media/mori.svg',description:'Explore a small figure shaped around your idea.',projectType:'Custom Figurine'},
-  {name:'Personalized Gifts',image:'/media/pico.svg',description:'Discuss a personal detail, occasion or meaningful object.',projectType:'Other'},
-  {name:'Character Models',image:'/media/lune.svg',description:'Develop an original character into a considered form.',projectType:'IP / Character Design'},
-  {name:'Cosplay Creations',image:'/media/sora.svg',description:'Discuss an original display prop or custom concept.',projectType:'Cosplay Props'},
+  {name:'Custom Mini Figures',image:"/media/studio-concepts/figure.jpg",description:'Explore a small figure shaped around your idea.',projectType:'Custom Figurine'},
+  {name:'Personalized Gifts',image:"/media/studio-concepts/gift.jpg",description:'Discuss a personal detail, occasion or meaningful object.',projectType:'Other'},
+  {name:'Character Models',image:"/media/studio-concepts/character.jpg",description:'Develop an original character into a considered form.',projectType:'IP / Character Design'},
+  {name:'Cosplay Creations',image:"/media/studio-concepts/prop.jpg",description:'Discuss an original display prop or custom concept.',projectType:'Cosplay Props'},
 ];
 export const howItWorks = [
   {title:'Tell Us Your Idea',description:'Share your concept, references, requirements and budget.'},

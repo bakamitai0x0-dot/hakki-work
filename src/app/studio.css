@@ -108,3 +108,9 @@
 .hw-work-card>h3{margin-top:22px;margin-bottom:0}.hw-work-meta{margin:14px 0 16px}.hw-contact>div:first-child{position:sticky;top:120px;align-self:start}@media(max-width:760px){.hw-contact>div:first-child{position:static}}
 
 .hw-hero h1{white-space:pre-line}@media(max-width:520px){.hw-existing-shop{margin-top:60px}}
+
+.hw-about .hw-creator-label{margin:0 0 12px;font-weight:700}
+.hw-creator ul{display:flex;flex-wrap:wrap;gap:8px 24px;margin:20px 0 26px;padding-left:18px;list-style:disc;font-size:14px}
+.hw-creator figure{margin:0;min-width:0}
+.hw-creator figure .media{aspect-ratio:1.35}
+.hw-creator figcaption{margin-top:10px}

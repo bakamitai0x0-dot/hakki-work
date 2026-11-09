@@ -1,0 +1,910 @@
+{
+  "Home": [
+    "首页",
+    "Utama"
+  ],
+  "Services": [
+    "服务",
+    "Perkhidmatan"
+  ],
+  "Our Works": [
+    "作品展示",
+    "Karya Kami"
+  ],
+  "Custom Shop": [
+    "定制商店",
+    "Kedai Tempahan"
+  ],
+  "About": [
+    "关于我们",
+    "Tentang Kami"
+  ],
+  "Contact": [
+    "联系我们",
+    "Hubungi Kami"
+  ],
+  "Get a Quote": [
+    "获取报价",
+    "Minta Sebut Harga"
+  ],
+  "Shop": [
+    "商店",
+    "Kedai"
+  ],
+  "Collections": [
+    "系列",
+    "Koleksi"
+  ],
+  "Characters": [
+    "角色",
+    "Watak"
+  ],
+  "Journal": [
+    "工作室日志",
+    "Jurnal"
+  ],
+  "Support": [
+    "客户支持",
+    "Sokongan"
+  ],
+  "Your account": [
+    "您的账户",
+    "Akaun Anda"
+  ],
+  "New releases": [
+    "新品发布",
+    "Keluaran Baharu"
+  ],
+  "From Imagination to Reality.": [
+    "从想象到现实。",
+    "Daripada Imaginasi kepada Realiti."
+  ],
+  "Start a conversation": [
+    "开始沟通",
+    "Mulakan Perbualan"
+  ],
+  "Independent Creative Studio": [
+    "独立创意工作室",
+    "Studio Kreatif Bebas"
+  ],
+  "Open navigation": [
+    "打开导航",
+    "Buka Navigasi"
+  ],
+  "Main navigation": [
+    "主导航",
+    "Navigasi Utama"
+  ],
+  "Mobile navigation": [
+    "移动导航",
+    "Navigasi Mudah Alih"
+  ],
+  "Explore shop menu": [
+    "展开商店菜单",
+    "Terokai Menu Kedai"
+  ],
+  "Explore HAKKI WORK": [
+    "探索 HAKKI WORK",
+    "Terokai HAKKI WORK"
+  ],
+  "Search": [
+    "搜索",
+    "Cari"
+  ],
+  "Search objects, characters…": [
+    "搜索商品、角色…",
+    "Cari objek, watak…"
+  ],
+  "Find something meaningful": [
+    "寻找有意义的作品",
+    "Temui Sesuatu yang Bermakna"
+  ],
+  "Search the collection": [
+    "搜索系列",
+    "Cari dalam Koleksi"
+  ],
+  "A few objects you might love": [
+    "你可能喜欢的作品",
+    "Beberapa Objek Pilihan untuk Anda"
+  ],
+  "No objects found. Try “Mori” or “Lune”.": [
+    "未找到商品。试试搜索“Mori”或“Lune”。",
+    "Tiada objek ditemui. Cuba “Mori” atau “Lune”."
+  ],
+  "Skip to content": [
+    "跳到正文",
+    "Langkau ke Kandungan"
+  ],
+  "All objects": [
+    "全部商品",
+    "Semua Objek"
+  ],
+  "All collections": [
+    "全部系列",
+    "Semua Koleksi"
+  ],
+  "All statuses": [
+    "所有状态",
+    "Semua Status"
+  ],
+  "All": [
+    "全部",
+    "Semua"
+  ],
+  "Category": [
+    "分类",
+    "Kategori"
+  ],
+  "Availability": [
+    "库存状态",
+    "Ketersediaan"
+  ],
+  "Available": [
+    "有货",
+    "Tersedia"
+  ],
+  "Upcoming": [
+    "即将推出",
+    "Akan Datang"
+  ],
+  "Sold out": [
+    "已售罄",
+    "Habis Dijual"
+  ],
+  "Pre-order": [
+    "预购",
+    "Prapesan"
+  ],
+  "Released": [
+    "已发布",
+    "Telah Dikeluarkan"
+  ],
+  "Price range (USD)": [
+    "价格范围（美元）",
+    "Julat Harga (USD)"
+  ],
+  "Sort by": [
+    "排序",
+    "Susun Mengikut"
+  ],
+  "Newest arrivals": [
+    "最新上架",
+    "Ketibaan Terbaharu"
+  ],
+  "Price: low to high": [
+    "价格从低到高",
+    "Harga: Rendah ke Tinggi"
+  ],
+  "Price: high to low": [
+    "价格从高到低",
+    "Harga: Tinggi ke Rendah"
+  ],
+  "Clear all filters": [
+    "清除所有筛选",
+    "Kosongkan Semua Penapis"
+  ],
+  "Filters": [
+    "筛选",
+    "Penapis"
+  ],
+  "Quick view": [
+    "快速预览",
+    "Paparan Pantas"
+  ],
+  "View full details": [
+    "查看完整详情",
+    "Lihat Butiran Penuh"
+  ],
+  "Add to bag": [
+    "加入购物袋",
+    "Tambah ke Beg"
+  ],
+  "Added to your bag": [
+    "已加入购物袋",
+    "Ditambah ke Beg Anda"
+  ],
+  "Quantity": [
+    "数量",
+    "Kuantiti"
+  ],
+  "Finish": [
+    "款式",
+    "Kemasan"
+  ],
+  "Object details": [
+    "商品详情",
+    "Butiran Objek"
+  ],
+  "Delivery & returns": [
+    "配送与退换货",
+    "Penghantaran dan Pemulangan"
+  ],
+  "Release information": [
+    "发售信息",
+    "Maklumat Keluaran"
+  ],
+  "Bag summary": [
+    "购物袋概要",
+    "Ringkasan Beg"
+  ],
+  "Subtotal": [
+    "小计",
+    "Subjumlah"
+  ],
+  "Delivery": [
+    "配送",
+    "Penghantaran"
+  ],
+  "Total (USD)": [
+    "总计（美元）",
+    "Jumlah (USD)"
+  ],
+  "Illustrative total (USD)": [
+    "示例总计（美元）",
+    "Jumlah Contoh (USD)"
+  ],
+  "Remove": [
+    "移除",
+    "Buang"
+  ],
+  "Your bag": [
+    "购物袋",
+    "Beg Anda"
+  ],
+  "Opening your bag…": [
+    "正在打开购物袋…",
+    "Membuka beg anda…"
+  ],
+  "Loading bag…": [
+    "正在加载购物袋…",
+    "Memuatkan beg…"
+  ],
+  "View your bag": [
+    "查看购物袋",
+    "Lihat Beg Anda"
+  ],
+  "Continue exploring": [
+    "继续探索",
+    "Teruskan Meneroka"
+  ],
+  "Explore demo checkout": [
+    "体验结账演示",
+    "Terokai Demo Daftar Keluar"
+  ],
+  "Demonstration checkout": [
+    "结账演示",
+    "Demo Daftar Keluar"
+  ],
+  "No charges will be made. Taxes and delivery are illustrative.": [
+    "不会收取费用。税费和配送仅供演示。",
+    "Tiada caj dikenakan. Cukai dan penghantaran adalah contoh sahaja."
+  ],
+  "This is a demonstration only. No payment details, shipping address or real orders are collected.": [
+    "此页面仅供演示，不收集付款资料、配送地址或真实订单。",
+    "Ini demonstrasi sahaja. Butiran bayaran, alamat penghantaran dan pesanan sebenar tidak dikumpulkan."
+  ],
+  "Checkout preview complete. Your bag is preserved for browsing. No order has been placed.": [
+    "结账预览结束。购物袋已保留，没有提交订单。",
+    "Pratonton daftar keluar selesai. Beg anda dikekalkan. Tiada pesanan dibuat."
+  ],
+  "Your demonstration bag. Saved in this browser.": [
+    "演示购物袋保存在此浏览器中。",
+    "Beg demonstrasi anda disimpan dalam pelayar ini."
+  ],
+  "Your space": [
+    "您的空间",
+    "Ruang Anda"
+  ],
+  "The collector’s circle": [
+    "收藏家圈子",
+    "Kelab Pengumpul"
+  ],
+  "Make yourself at home.": [
+    "欢迎来到您的空间。",
+    "Selamat Datang ke Ruang Anda."
+  ],
+  "A future home for your collection, saved objects and studio updates.": [
+    "未来可在这里管理收藏、保存作品和查看工作室动态。",
+    "Ruang untuk koleksi, objek tersimpan dan berita studio pada masa hadapan."
+  ],
+  "Email address": [
+    "电子邮箱",
+    "Alamat E-mel"
+  ],
+  "Preview sign-in": [
+    "预览登录",
+    "Pratonton Log Masuk"
+  ],
+  "Member features are demonstration only.": [
+    "会员功能仅供演示。",
+    "Ciri ahli untuk demonstrasi sahaja."
+  ],
+  "This is a preview. No account was created, no email was stored, and no sign-in link was sent.": [
+    "此功能仅供预览。未创建账户、保存邮箱或发送登录链接。",
+    "Ini pratonton. Tiada akaun dicipta, e-mel disimpan atau pautan log masuk dihantar."
+  ],
+  "Membership, rewards and order history are not connected in this demonstration.": [
+    "演示版尚未接入会员、奖励和订单记录。",
+    "Keahlian, ganjaran dan sejarah pesanan belum disambungkan dalam demo ini."
+  ],
+  "Membership, imagined for the thoughtful collector.": [
+    "为热爱收藏的人构想的会员空间。",
+    "Ruang keahlian untuk pencinta koleksi."
+  ],
+  "A world of your own.": [
+    "属于您的世界。",
+    "Dunia Anda Sendiri."
+  ],
+  "Find your companion": [
+    "寻找您的伙伴",
+    "Temui Teman Anda"
+  ],
+  "Explore": [
+    "探索",
+    "Terokai"
+  ],
+  "Our characters": [
+    "原创角色",
+    "Watak Kami"
+  ],
+  "Our story": [
+    "我们的故事",
+    "Kisah Kami"
+  ],
+  "Support & policies": [
+    "支持与政策",
+    "Sokongan dan Polisi"
+  ],
+  "Privacy Policy": [
+    "隐私政策",
+    "Dasar Privasi"
+  ],
+  "Terms of Service": [
+    "服务条款",
+    "Terma Perkhidmatan"
+  ],
+  "Customization Policy": [
+    "定制政策",
+    "Dasar Tempahan Khas"
+  ],
+  "Release calendar": [
+    "发售日历",
+    "Kalendar Keluaran"
+  ],
+  "The atelier": [
+    "工作室",
+    "Studio"
+  ],
+  "A note on this store": [
+    "商店说明",
+    "Nota tentang Kedai Ini"
+  ],
+  "Media & credits": [
+    "素材与鸣谢",
+    "Media dan Kredit"
+  ],
+  "Original concept. Demo products.": [
+    "原创概念，演示商品。",
+    "Konsep asli. Produk demonstrasi."
+  ],
+  "No real orders or payments.": [
+    "没有真实订单或付款。",
+    "Tiada pesanan atau bayaran sebenar."
+  ],
+  "An independent creative studio connecting design, development and hands-on making.": [
+    "连接设计、开发和实体制作的独立创意工作室。",
+    "Studio kreatif bebas yang menghubungkan reka bentuk, pembangunan dan pembuatan."
+  ],
+  "From Imagination": [
+    "从想象",
+    "Daripada Imaginasi"
+  ],
+  "to Reality.": [
+    "到现实。",
+    "kepada Realiti."
+  ],
+  "Your Ideas. Made Real.": [
+    "让创意成为现实。",
+    "Idea Anda, Kami Realisasikan."
+  ],
+  "From custom websites and apps to original characters, 3D models, collectibles, and personalized products — we bring creative ideas to life.": [
+    "从定制网站与应用，到原创角色、3D 模型、收藏品和个性化商品，我们让创意成为现实。",
+    "Daripada laman web dan aplikasi tersuai kepada watak asli, model 3D, koleksi dan produk peribadi, kami merealisasikan idea kreatif."
+  ],
+  "Start a Project": [
+    "启动项目",
+    "Mulakan Projek"
+  ],
+  "Explore Our Works": [
+    "浏览我们的作品",
+    "Terokai Karya Kami"
+  ],
+  "What We Do": [
+    "我们的服务",
+    "Perkhidmatan Kami"
+  ],
+  "Creative ideas, digital experiences, and physical creations.": [
+    "创意构思、数字体验与实体制作。",
+    "Idea kreatif, pengalaman digital dan ciptaan fizikal."
+  ],
+  "Selected Works": [
+    "精选作品",
+    "Karya Pilihan"
+  ],
+  "A collection of creative ideas brought to life.": [
+    "一系列化为现实的创意构想。",
+    "Himpunan idea kreatif yang direalisasikan."
+  ],
+  "One Idea. Endless Possibilities.": [
+    "一个创意，无限可能。",
+    "Satu Idea. Pelbagai Kemungkinan."
+  ],
+  "Connecting design, digital development and hands-on making.": [
+    "连接设计、数字开发与实体制作。",
+    "Menghubungkan reka bentuk, pembangunan digital dan pembuatan."
+  ],
+  "Creative Solutions for Your Business.": [
+    "为您的业务提供创意方案。",
+    "Penyelesaian Kreatif untuk Perniagaan Anda."
+  ],
+  "Discuss Your Project": [
+    "讨论您的项目",
+    "Bincangkan Projek Anda"
+  ],
+  "Business projects, scoped around your needs.": [
+    "根据您的需求规划商业项目。",
+    "Projek perniagaan dirangka mengikut keperluan anda."
+  ],
+  "Made Just for You.": [
+    "专为您定制。",
+    "Dibuat Khas untuk Anda."
+  ],
+  "Discover personalized creations made with care.": [
+    "探索用心打造的个性化作品。",
+    "Terokai ciptaan peribadi yang dibuat dengan teliti."
+  ],
+  "Request a Quote": [
+    "申请报价",
+    "Minta Sebut Harga"
+  ],
+  "View Details": [
+    "查看详情",
+    "Lihat Butiran"
+  ],
+  "Explore Custom Shop": [
+    "探索定制商店",
+    "Terokai Kedai Tempahan"
+  ],
+  "Learn More": [
+    "了解更多",
+    "Ketahui Lebih Lanjut"
+  ],
+  "View Project": [
+    "查看项目",
+    "Lihat Projek"
+  ],
+  "Concept": [
+    "概念",
+    "Konsep"
+  ],
+  "How It Works": [
+    "服务流程",
+    "Cara Ia Berfungsi"
+  ],
+  "A clear conversation, from the first idea to the finished project.": [
+    "从最初想法到项目交付，每一步都沟通清楚。",
+    "Komunikasi yang jelas daripada idea pertama hingga projek siap."
+  ],
+  "Why HAKKI WORK?": [
+    "为什么选择 HAKKI WORK？",
+    "Mengapa HAKKI WORK?"
+  ],
+  "Have an Idea?": [
+    "有新想法？",
+    "Ada Idea?"
+  ],
+  "Let’s Make It Real.": [
+    "一起实现它。",
+    "Mari Realisasikannya."
+  ],
+  "Discover Our Story": [
+    "了解我们的故事",
+    "Kenali Kisah Kami"
+  ],
+  "Creator Program": [
+    "创作者计划",
+    "Program Pencipta"
+  ],
+  "HAKKI CREATOR PROGRAM": [
+    "HAKKI 创作者计划",
+    "PROGRAM PENCIPTA HAKKI"
+  ],
+  "Your Creation Doesn't End Here.": [
+    "你的创作，不止于此。",
+    "Hasil Kreativiti Anda Tidak Terhenti Di Sini."
+  ],
+  "Turn Your Creation Into Something More.": [
+    "你的创作，不止于此。",
+    "Hasil Kreativiti Anda Tidak Terhenti Di Sini."
+  ],
+  "Explore Creator Program": [
+    "探索创作者计划",
+    "Terokai Program Pencipta"
+  ],
+  "Turn your completed custom creation into something more. List your eligible product on HAKKI WORK, reach new customers, and earn royalties from future sales — while we handle production and shipping.": [
+    "让已完成的定制作品继续发挥价值。符合条件的商品可申请在 HAKKI WORK 上架，触达新顾客，并从符合条件的销售中获得版税。生产和配送由我们负责。",
+    "Berikan hayat baharu kepada ciptaan tempahan anda. Mohon untuk menyenaraikan produk yang layak di HAKKI WORK, jangkau pelanggan baharu dan raih royalti daripada jualan yang layak. Kami menguruskan pengeluaran dan penghantaran."
+  ],
+  "Studio concept illustration": [
+    "工作室概念示意图",
+    "Ilustrasi Konsep Studio"
+  ],
+  "Our atelier": [
+    "我们的工作室",
+    "Studio Kami"
+  ],
+  "Demo checkout": [
+    "演示结账",
+    "Daftar Keluar Demo"
+  ],
+  "Demonstration checkout. No real order or payment.": [
+    "结账演示。不会创建真实订单或付款。",
+    "Demo daftar keluar. Tiada pesanan atau bayaran sebenar."
+  ],
+  "Preview the ATELIER OBJECTS collector account.": [
+    "预览 ATELIER OBJECTS 收藏者账户。",
+    "Pratonton akaun pengumpul ATELIER OBJECTS."
+  ],
+  "Explore original demo collectible sculptures. Search by character, collection, price and availability.": [
+    "探索原创收藏雕塑演示，按角色、系列、价格或库存搜索。",
+    "Terokai arca koleksi demonstrasi. Cari mengikut watak, koleksi, harga dan ketersediaan."
+  ],
+  "Information about this demo store, illustrative shipping and returns, privacy and original media.": [
+    "查看演示商店的配送与退换货示例、隐私说明和原创素材。",
+    "Maklumat kedai demo, contoh penghantaran dan pemulangan, privasi serta media asli."
+  ],
+  "Original studio stories about making, collecting and thoughtful objects.": [
+    "关于制作、收藏和作品的工作室原创故事。",
+    "Kisah asli studio tentang pembuatan, pengumpulan dan objek bermakna."
+  ],
+  "An original fictional studio creating collectible sculptures, quiet companions and imagined worlds.": [
+    "一个创作收藏雕塑、静谧伙伴和想象世界的原创概念工作室。",
+    "Studio fiksyen asli yang mencipta arca koleksi, teman yang tenang dan dunia imaginasi."
+  ],
+  "Quiet Forms, After Hours and Earth Notes. Three original collectible worlds.": [
+    "Quiet Forms、After Hours 与 Earth Notes，三个原创收藏世界。",
+    "Quiet Forms, After Hours dan Earth Notes. Tiga dunia koleksi asli."
+  ],
+  "Meet Mori, Lune, Pico and Sora. Original characters with stories of their own.": [
+    "认识 Mori、Lune、Pico 和 Sora，每个原创角色都有自己的故事。",
+    "Kenali Mori, Lune, Pico dan Sora. Watak asli dengan kisah masing-masing."
+  ],
+  "Discover upcoming and past demonstration releases.": [
+    "探索即将推出及过往的演示商品。",
+    "Terokai keluaran demonstrasi akan datang dan yang lalu."
+  ],
+  "HAKKI WORK — Creative Design, Web Development & Custom Creations": [
+    "HAKKI WORK — 创意设计、网站开发与定制制作",
+    "HAKKI WORK — Reka Bentuk Kreatif, Pembangunan Web dan Ciptaan Tempahan"
+  ],
+  "HAKKI WORK is an independent creative studio specializing in websites, apps, original characters, 3D modeling, custom figurines and personalized products.": [
+    "HAKKI WORK 是独立创意工作室，专注网站、应用、原创角色、3D 建模、定制模型及个性化产品。",
+    "HAKKI WORK ialah studio kreatif bebas yang mengkhusus dalam laman web, aplikasi, watak asli, pemodelan 3D, figurin tempahan dan produk peribadi."
+  ],
+  "Collection": [
+    "系列",
+    "Koleksi"
+  ],
+  "Art figures": [
+    "艺术模型",
+    "Figurin Seni"
+  ],
+  "Object sets": [
+    "商品套装",
+    "Set Objek"
+  ],
+  "Minimum price": [
+    "最低价格",
+    "Harga Minimum"
+  ],
+  "Maximum price": [
+    "最高价格",
+    "Harga Maksimum"
+  ],
+  "Find your quiet companion": [
+    "寻找您的静谧伙伴",
+    "Temui Teman Tenang Anda"
+  ],
+  "Search products": [
+    "搜索商品",
+    "Cari Produk"
+  ],
+  "Sort products": [
+    "商品排序",
+    "Susun Produk"
+  ],
+  "No objects found": [
+    "未找到商品",
+    "Tiada Objek Ditemui"
+  ],
+  "Try another search or clear your filters.": [
+    "请尝试其他关键词或清除筛选。",
+    "Cuba carian lain atau kosongkan penapis."
+  ],
+  "Refine your selection": [
+    "调整筛选",
+    "Perhalusi Pilihan"
+  ],
+  "Decrease quantity": [
+    "减少数量",
+    "Kurangkan Kuantiti"
+  ],
+  "Increase quantity": [
+    "增加数量",
+    "Tambah Kuantiti"
+  ],
+  "Pre-order · demo release": [
+    "预购 · 演示发布",
+    "Prapesan · Keluaran Demo"
+  ],
+  "Available · demo inventory": [
+    "有货 · 演示库存",
+    "Tersedia · Inventori Demo"
+  ],
+  "This finish is currently unavailable": [
+    "此款式目前缺货",
+    "Kemasan ini tidak tersedia buat masa ini"
+  ],
+  "Add pre-order to bag": [
+    "将预购商品加入购物袋",
+    "Tambah Prapesan ke Beg"
+  ],
+  "Added to your demonstration bag.": [
+    "已加入演示购物袋。",
+    "Ditambah ke beg demonstrasi anda."
+  ],
+  "Demo collection. No real purchase or payment.": [
+    "演示系列，无真实购买或付款。",
+    "Koleksi demo. Tiada pembelian atau bayaran sebenar."
+  ],
+  "A place for your favorites.": [
+    "收藏您喜欢的作品。",
+    "Ruang untuk Kegemaran Anda."
+  ],
+  "A little room for something special": [
+    "为特别的作品留一点空间",
+    "Ruang untuk Sesuatu yang Istimewa"
+  ],
+  "Your bag is currently empty.": [
+    "您的购物袋还是空的。",
+    "Beg anda masih kosong."
+  ],
+  "A preview, with care.": [
+    "结账体验预览。",
+    "Pratonton dengan Teliti."
+  ],
+  "Your email address": [
+    "您的电子邮箱",
+    "Alamat E-mel Anda"
+  ],
+  "A shared appreciation.": [
+    "共享收藏乐趣。",
+    "Minat yang Dikongsi."
+  ],
+  "The planned collector’s circle will offer a place to save favorites, follow characters and hear from the studio.": [
+    "规划中的收藏家圈子可保存收藏、关注角色及接收工作室动态。",
+    "Kelab pengumpul yang dirancang menyediakan ruang untuk menyimpan kegemaran, mengikuti watak dan menerima berita studio."
+  ],
+  "Studio stories, new companions and things worth keeping.": [
+    "工作室故事、新伙伴及值得珍藏的作品。",
+    "Kisah studio, teman baharu dan objek yang wajar disimpan."
+  ],
+  "Original companions, considered forms. Explore the complete demo collection.": [
+    "原创伙伴，用心设计的造型。浏览完整演示系列。",
+    "Teman asli dengan bentuk yang teliti. Terokai koleksi demo lengkap."
+  ],
+  "Explore all objects": [
+    "浏览所有商品",
+    "Terokai Semua Objek"
+  ],
+  "A world of small wonders.": [
+    "小小作品，大大世界。",
+    "Dunia Keajaiban Kecil."
+  ],
+  "Small Studio.": [
+    "小小工作室。",
+    "Studio Kecil."
+  ],
+  "Big Possibilities.": [
+    "大大的可能。",
+    "Kemungkinan Besar."
+  ],
+  "HAKKI WORK is an independent creative studio specializing in custom design, digital development and physical production.": [
+    "HAKKI WORK 是独立创意工作室，专注定制设计、数字开发和实体制作。",
+    "HAKKI WORK ialah studio kreatif bebas yang mengkhusus dalam reka bentuk tempahan, pembangunan digital dan pengeluaran fizikal."
+  ],
+  "We combine creative thinking, technology and hands-on making to transform ideas into meaningful products and digital experiences.": [
+    "我们结合创意思考、技术和制作，将想法转化为有意义的产品与数字体验。",
+    "Kami menggabungkan pemikiran kreatif, teknologi dan pembuatan untuk mengubah idea menjadi produk dan pengalaman digital bermakna."
+  ],
+  "Independent studio. One creative partner.": [
+    "独立工作室，陪伴您的创意伙伴。",
+    "Studio bebas. Satu rakan kreatif."
+  ],
+  "Explore the existing demo collection.": [
+    "探索现有演示系列。",
+    "Terokai Koleksi Demo Sedia Ada."
+  ],
+  "Explore a custom direction below. These are inquiry categories, with illustrative concept visuals. Availability and pricing require an individual quotation.": [
+    "请选择定制方向。图片为概念示意，供应情况与价格以单独报价为准。",
+    "Terokai pilihan tempahan di bawah. Imej ialah ilustrasi konsep. Ketersediaan dan harga memerlukan sebut harga individu."
+  ],
+  "This describes the intended project process. An inquiry does not confirm availability, a quotation or a commission.": [
+    "以上为预定项目流程。提交咨询不代表确认档期、报价或委托。",
+    "Ini ialah proses projek yang dirancang. Pertanyaan tidak mengesahkan ketersediaan, sebut harga atau tempahan."
+  ],
+  "Creative Thinking": [
+    "创意思考",
+    "Pemikiran Kreatif"
+  ],
+  "Digital to Physical": [
+    "从数字到实体",
+    "Daripada Digital kepada Fizikal"
+  ],
+  "Made to Fit": [
+    "按需打造",
+    "Dibuat Mengikut Keperluan"
+  ],
+  "Direct Communication": [
+    "直接沟通",
+    "Komunikasi Langsung"
+  ],
+  "USD / English": [
+    "美元／简体中文",
+    "USD / Bahasa Melayu"
+  ],
+  "Made to mean": [
+    "让作品承载",
+    "Dicipta dengan"
+  ],
+  "a little more.": [
+    "更多意义。",
+    "makna yang lebih."
+  ],
+  "ATELIER OBJECTS is an independent, imagined studio exploring the relationship between objects and the stories we give them.": [
+    "ATELIER OBJECTS 是一个独立的概念工作室，探索物件与我们赋予它们的故事之间的关系。",
+    "ATELIER OBJECTS ialah studio rekaan bebas yang meneroka hubungan antara objek dengan kisah yang kita berikan kepadanya."
+  ],
+  "We believe a small companion can make a space feel a little more like your own.": [
+    "我们相信，一个小小的伙伴能让空间更有归属感。",
+    "Kami percaya teman kecil boleh membuatkan ruang terasa lebih dekat dengan diri anda."
+  ],
+  "The quiet is": [
+    "从静谧",
+    "Ketenangan ialah"
+  ],
+  "where we begin.": [
+    "开始。",
+    "titik permulaan kami."
+  ],
+  "Soft silhouettes and considered imperfections. Characters that feel familiar, while belonging to an entirely original world.": [
+    "柔和的轮廓与用心保留的不完美。这些角色亲切熟悉，却来自全然原创的世界。",
+    "Siluet lembut dan ketidaksempurnaan yang disengajakan. Watak yang terasa akrab, daripada dunia yang asli."
+  ],
+  "Stories with room.": [
+    "留有余白的故事。",
+    "Kisah yang Memberi Ruang."
+  ],
+  "We offer a beginning, rather than a finished narrative. The rest happens on your shelf, in your daily rituals, in the memories you keep.": [
+    "我们提供故事的开端，余下的故事在您的书架、日常和记忆里继续。",
+    "Kami menyediakan permulaan cerita. Selebihnya berlaku di rak anda, dalam rutin harian dan kenangan yang anda simpan."
+  ],
+  "This is a fictional brand and commerce experience. All products, inventory and release dates are demo data. No real sales are available.": [
+    "这是虚构品牌与电商演示。所有商品、库存和发布日期均为示例，暂不提供真实销售。",
+    "Ini pengalaman jenama dan perdagangan rekaan. Semua produk, inventori dan tarikh keluaran ialah data demo. Tiada jualan sebenar."
+  ],
+  "Explore our collections ↗": [
+    "浏览我们的系列 ↗",
+    "Terokai Koleksi Kami ↗"
+  ],
+  "A thoughtful pause before checkout.": [
+    "结账前，先看一下演示说明。",
+    "Sebelum daftar keluar, lihat maklumat demo ini."
+  ],
+  "Your bag is empty": [
+    "购物袋为空",
+    "Beg Anda Kosong"
+  ],
+  "Demo object": [
+    "演示商品",
+    "Objek Demo"
+  ],
+  "Is this a real store?": [
+    "这是真实商店吗？",
+    "Adakah ini kedai sebenar?"
+  ],
+  "No. ATELIER OBJECTS is an original fictional brand created for a front-end demonstration. All products, prices, stock quantities and release dates are mock data. No orders, payments or deliveries are processed.": [
+    "ATELIER OBJECTS 是为前端演示创建的原创虚构品牌。商品、价格、库存和发布日期均为模拟数据，不处理真实订单、付款或配送。",
+    "ATELIER OBJECTS ialah jenama rekaan asli untuk demonstrasi. Produk, harga, kuantiti stok dan tarikh keluaran ialah data olok-olok. Tiada pesanan, bayaran atau penghantaran diproses."
+  ],
+  "How does the demonstration bag work?": [
+    "演示购物袋如何运作？",
+    "Bagaimanakah beg demonstrasi berfungsi?"
+  ],
+  "Your bag is stored in localStorage on this browser. You can update quantities, remove objects and preview checkout. Clearing browser storage removes it. No cart information is sent to a server.": [
+    "购物袋保存在此浏览器的本地存储中。您可以修改数量、移除商品和预览结账。清除浏览器存储会清空购物袋，购物袋信息不会发送至服务器。",
+    "Beg disimpan dalam storan setempat pelayar. Anda boleh mengubah kuantiti, membuang objek dan melihat pratonton daftar keluar. Mengosongkan storan akan memadam beg. Maklumat beg tidak dihantar ke pelayan."
+  ],
+  "There is no actual fulfillment or return service. Product delivery estimates and prices are illustrative only. Before launch, configure real shipping zones, delivery pricing, tax handling, cancellation terms and local consumer rights.": [
+    "目前没有真实履约或退货服务。配送估计和价格仅供演示。正式上线前须配置配送区域、运费、税务、取消条款及当地消费者权益。",
+    "Tiada perkhidmatan pemenuhan atau pemulangan sebenar. Anggaran penghantaran dan harga ialah contoh sahaja. Sebelum pelancaran, sediakan zon penghantaran, caj, cukai, terma pembatalan dan hak pengguna tempatan."
+  ],
+  "Care & materials": [
+    "保养与材质",
+    "Penjagaan dan Bahan"
+  ],
+  "Product materials and dimensions are suggested demonstration specifications. Obtain manufacturer-confirmed material, safety and care information before offering physical products for sale.": [
+    "材质和尺寸是演示规格。正式销售前须取得制造商确认的材质、安全和保养资料。",
+    "Bahan dan dimensi ialah spesifikasi demonstrasi. Dapatkan maklumat bahan, keselamatan dan penjagaan yang disahkan pengilang sebelum menjual produk fizikal."
+  ],
+  "Discover upcoming, released, sold out and pre-order demo objects. All times in Singapore time.": [
+    "查看即将推出、已发布、已售罄和可预购的演示商品。时间均为新加坡时间。",
+    "Terokai objek demo akan datang, telah dikeluarkan, habis dijual dan prapesan. Semua waktu mengikut waktu Singapura."
+  ],
+  "Quiet companions": [
+    "静谧伙伴",
+    "Teman yang Tenang"
+  ],
+  "An editorial storefront": [
+    "编辑风格的线上商店",
+    "Kedai Dalam Talian Bergaya Editorial"
+  ],
+  "A study in soft forms": [
+    "柔和造型研究",
+    "Kajian Bentuk Lembut"
+  ],
+  "Objects with personality": [
+    "有个性的物件",
+    "Objek Berkeperibadian"
+  ],
+  "An internal exploration of original character silhouettes and imagined worlds.": [
+    "对原创角色轮廓及想象世界的内部探索。",
+    "Penerokaan dalaman terhadap siluet watak asli dan dunia imaginasi."
+  ],
+  "An internal commerce interface study, connecting storytelling and product discovery.": [
+    "连接叙事与商品探索的内部电商界面研究。",
+    "Kajian dalaman antara muka kedai yang menghubungkan penceritaan dengan penerokaan produk."
+  ],
+  "A visual direction for a rounded character, developed as an illustrative form study.": [
+    "以圆润角色为主题的造型示意研究。",
+    "Arah visual bagi watak berbentuk bulat, sebagai kajian ilustrasi bentuk."
+  ],
+  "An internal concept for character-led keepsakes and personalized objects.": [
+    "以角色为主题的纪念品和个性化物件内部概念。",
+    "Konsep dalaman untuk cenderamata berasaskan watak dan objek peribadi."
+  ],
+  "Explore the character studies": [
+    "浏览角色研究",
+    "Terokai Kajian Watak"
+  ],
+  "Explore the demonstration shop": [
+    "浏览演示商店",
+    "Terokai Kedai Demonstrasi"
+  ],
+  "View the original concept": [
+    "查看原创概念",
+    "Lihat Konsep Asli"
+  ],
+  "Explore the collection concept": [
+    "探索系列概念",
+    "Terokai Konsep Koleksi"
+  ],
+  "AI-generated concept illustration": [
+    "AI 生成概念图",
+    "Ilustrasi konsep janaan AI"
+  ],
+  "Explore a custom direction below. These are inquiry categories with AI-generated concept illustrations. Availability and pricing require an individual quotation.": [
+    "浏览以下定制方向。图片为 AI 生成的概念示意，供应情况和价格以单独报价为准。",
+    "Terokai pilihan tempahan di bawah. Imej ialah ilustrasi konsep janaan AI. Ketersediaan dan harga tertakluk pada sebut harga individu."
+  ]
+}

@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev --hostname 0.0.0.0",
-    "build": "next build && node scripts/normalize-export.mjs",
+    "build": "node scripts/build-locales.mjs",
     "start": "node preview.mjs",
     "typecheck": "tsc --noEmit",
     "test": "node --test tests/*.test.mjs",

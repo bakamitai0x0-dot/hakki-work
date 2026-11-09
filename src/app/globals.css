@@ -22,3 +22,9 @@
 
 /* V1.1: shared navigation/footer additions; commerce styles remain unchanged. */
 .hw-studio-nav{gap:22px}.hw-studio-nav .hw-nav-quote{font-size:13px;min-height:44px;padding:10px 16px}.hw-studio-nav .hw-nav-quote:after{display:none}.footer-studio-links{display:flex;flex-wrap:wrap;gap:6px 20px;margin-top:24px}.footer-legal{display:flex;gap:20px}@media(max-width:1200px){.hw-studio-nav{display:none}.header .mobile-menu-button{display:flex}.header .wordmark{margin-right:auto}}
+
+.language-switcher{display:inline-flex;align-items:center;gap:3px;white-space:nowrap}
+.language-switcher select{min-height:44px;border:0;background:var(--paper);padding:4px;font-size:13px}
+.language-switcher-mobile select{font-size:16px;padding-inline:10px}
+.language-switcher-mobile{margin-bottom:16px}
+@media(max-width:1100px){.desktop-nav.hw-studio-nav{display:none}.header .mobile-menu-button{display:flex}.header-actions>.language-switcher{display:none}}

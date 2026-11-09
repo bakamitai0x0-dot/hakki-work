@@ -1,4 +1,6 @@
+import {t} from '@/locales';
+import {locale} from '@/locales';
 import type {Metadata} from 'next';import {Header} from '@/components/layout/header';import {Footer} from '@/components/layout/footer';import {CartProvider} from '@/components/commerce/cart-provider';import {CartDrawer} from '@/components/commerce/cart';import {brand} from '@/data/brand';import './globals.css';
 const origin=process.env.NEXT_PUBLIC_SITE_URL||'https://atelier-objects.example';
 export const metadata:Metadata={metadataBase:new URL(origin),title:{default:'ATELIER OBJECTS — Artful objects. Quiet companions.',template:'%s | ATELIER OBJECTS'},description:brand.description,openGraph:{type:'website',siteName:brand.name,title:brand.name,description:brand.description,images:[{url:'/media/campaign.webp',width:1536,height:1024,alt:'Original ATELIER OBJECTS sculpture campaign'}]},twitter:{card:'summary_large_image'},robots:{index:true,follow:true}};
-export default function RootLayout({children}:{children:React.ReactNode}){return <html lang="en"><body><CartProvider><a href="#main" className="skip-link">Skip to content</a><Header/><main id="main">{children}</main><Footer/><CartDrawer/></CartProvider></body></html>}
+export default function RootLayout({children}:{children:React.ReactNode}){return <html lang={locale}><body><CartProvider><a href="#main" className="skip-link">{t("Skip to content")}</a><Header/><main id="main">{children}</main><Footer/><CartDrawer/></CartProvider></body></html>}

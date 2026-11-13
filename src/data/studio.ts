@@ -8,7 +8,7 @@ export const studio = {
     image: "/media/campaign.webp",
     imageAlt: 'AI-generated concept illustration of two character figurines on a limestone plinth.'
   },
-  inquiry: { endpoint: null as string | null },
+  inquiry: { whatsapp: "https://wa.me/601155030452" },
 };
 export const studioNavigation = [
   {label:'Home',href:'/'}, {label:'Services',href:'/#services'},
